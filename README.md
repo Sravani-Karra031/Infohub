@@ -15,7 +15,7 @@ A full-stack application with React frontend and Node.js/Express backend.
 ## Project Structure
 
 - `client/` : React frontend
-- `server/` : Node.js/Express backend
+- `api/` : Node.js/Express backend
 
 ***
 
@@ -28,7 +28,7 @@ A full-stack application with React frontend and Node.js/Express backend.
 
 2. Install backend dependencies:
    ```bash
-   cd server
+   cd api
    npm install
    ```
 
@@ -47,7 +47,7 @@ A full-stack application with React frontend and Node.js/Express backend.
 
 - Start the backend server:
   ```bash
-  cd server
+  cd api
   npm start
   ```
 - Start the frontend app:
@@ -57,8 +57,3 @@ A full-stack application with React frontend and Node.js/Express backend.
   ```
 
 ***
-
-
-[8](https://www.reddit.com/r/learnprogramming/comments/vxfku6/how_to_write_a_readme/)
-[9](https://social-science-data-editors.github.io/template_README/template-README.html)
-[10](https://readme.so)
